@@ -56,7 +56,7 @@
       "init": {
         "data": {
           "scan_interval": "Minutes between scans",
-          "timeout": "Timeout (inseconds)"
+          "timeout": "Timeout (in seconds)"
         }
       }
     }
